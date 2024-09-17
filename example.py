@@ -10,3 +10,7 @@ print("Hello world")
 # Varun's dummy function
 def Example(a, b):
   print("Supposed to be toyed with")
+
+# Shashank's superior function
+def BP():
+  print("16x2=8")
